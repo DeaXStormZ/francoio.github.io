@@ -15,25 +15,25 @@ output: pdf_document
 
 * Déterminer la probabilité de l'événement $(N_E > k)$, pour tout $k \geq 1$. Quelle est la loi de $N_E$ ?
 
-###### Réponse : 
+###### Réponse : $P(N_E > k) = 5/6^k$, $N_E$ suit une loi geometrique de parametre 1/6
 
 
 ##### Question 2
 
 * Calculer la probabilité de l'événement $(N > k)$, pour tout $k \geq 1$. Quelle est la loi de $N$ ?
 
-###### Réponse :
+###### Réponse : $P(N > k) = 5/7^k$, N suit une loi geometrique de parametre 2/7
 
 ##### Question 3
 
-* Quelle est la probabilité pour que Eva gagne ? 
+* Quelle est la probabilité pour que Eva gagne ? cette probabilite vaut 1/2
 
 ###### Réponse : 
 
 
 ##### Question 4
 
-* Quelle est la probabilité de match nul ?
+* Quelle est la probabilité de match nul ? cette probabilite vaut 1/12
 
 
 ###### Réponse : 
@@ -56,14 +56,14 @@ output: pdf_document
 
 *  Calculer la probabilité que la variable aléatoire $W$ soit inférieure ou égale à $1/3$.  
 
-###### Réponse : 
+###### Réponse : cette probabilite vaut 1/6
 
   
 ##### Question 2
 
 *  Calculer l'espérance de la variable aléatoire $W^2$.  
 
-###### Réponse : 
+###### Réponse : cette esperance vaut 7/16
 
 ** **
 
@@ -74,4 +74,4 @@ output: pdf_document
 
 *  Calculer l'espérance de la variable aléatoire $Z$.  
 
-###### Réponse : 
+###### Réponse : cette esperance vaut 3/4
